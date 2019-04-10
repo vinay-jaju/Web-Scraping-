@@ -1,6 +1,6 @@
 # Web-Scraping using Scrapy
 
-Pre-requisites: 
+**Pre-requisites:**
 ```pip install scrapy```
 
 **Remember before scraping:**
